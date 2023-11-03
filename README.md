@@ -1,3 +1,3 @@
 # first-repo
 This is my first repository<br>
-author- Aarti Sharma
+author- Aarti Sharma (php developer)
